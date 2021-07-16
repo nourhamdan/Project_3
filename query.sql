@@ -1,3 +1,4 @@
+
 -- spotify table
 CREATE TABLE spotify (
 	artists VARCHAR,
